@@ -1,0 +1,2 @@
+node ./GetModVersions.js
+pause
